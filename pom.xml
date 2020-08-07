@@ -55,7 +55,7 @@
 		<fluent-hc.version>4.5.3</fluent-hc.version>
 		<camunda.version>7.6.0</camunda.version>
 		<logstash-logback-encoder.version>4.9</logstash-logback-encoder.version>
-		<commons-io.version>2.5</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<fast-classpath-scanner.version>2.0.9</fast-classpath-scanner.version>
 		<spring.cloud.sleuth.version>1.2.0.RELEASE</spring.cloud.sleuth.version>
         <!-- Overriding SpringBoot 1.3.4ff´s logback 1.1.7, because of http://jira.qos.ch/browse/LOGBACK-1164 which
